@@ -1,1 +1,2 @@
-learning git 
+learning branching and merging 
+edit a text file in the branch
