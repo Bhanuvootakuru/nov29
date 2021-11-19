@@ -14,8 +14,13 @@ learning branching and merging
 edit a text file in the branch
 modified a.txt in b1
 
+<<<<<<< HEAD
 
 stash practic:e
 stash practicie
 stash practicie
 
+=======
+bangalore 
+chennai
+>>>>>>> ec8d00b... edited a.txt file
