@@ -1,5 +1,6 @@
 learning branching and merging 
 edit a text file in the branch
+ Stashed changes
 
 DevOps training
 Cricbuzz
@@ -11,4 +12,7 @@ edit a text file in the branch
 learning branching and merging 
 edit a text file in the branch
 modified a.txt in b1
+
 stash practic:e
+stash practicie
+
