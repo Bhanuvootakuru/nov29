@@ -1,2 +1,14 @@
 learning branching and merging 
 edit a text file in the branch
+
+DevOps training
+Cricbuzz
+random
+learning branching and merging 
+edit a text file in the branch
+
+
+learning branching and merging 
+edit a text file in the branch
+modified a.txt in b1
+stash practic:e
