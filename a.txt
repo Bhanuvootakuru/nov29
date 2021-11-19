@@ -4,3 +4,12 @@ random
 learning branching and merging 
 edit a text file in the branch
 
+<<<<<<< HEAD
+=======
+learning branching and merging 
+edit a text file in the branch
+modified a.txt in b1
+
+bangalore 
+chennai
+>>>>>>> ec8d00b... edited a.txt file
